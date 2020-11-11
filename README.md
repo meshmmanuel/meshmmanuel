@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Mesh Manuel github stats](https://github-readme-stats.vercel.app/api?username=meshmmanuel&count_private=true&show_icons=true&theme=radical)](https://github.com/meshmmanuel/github-readme-stats)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meshmmanuel&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/meshmmanuel/github-readme-stats)
